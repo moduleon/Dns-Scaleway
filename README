@@ -1,1 +1,5 @@
 A docker image using certbot and scaleway dns
+
+You can use it with docker with image name `moduleon/dns-scaleway:latest`.
+
+This rely on certbot-dns-scaleway package. Its documentation can be found [here](https://pypi.org/project/certbot-dns-scaleway/).
